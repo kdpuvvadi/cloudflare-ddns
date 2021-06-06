@@ -10,7 +10,6 @@
       },
       "zone_id": "your_zone_id_here",
       "subdomains": [
-        "",
         "remove_or_replace_with_your_subdomain"
       ],
       "proxied": false
