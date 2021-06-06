@@ -12,9 +12,9 @@
       "subdomains": [
         "remove_or_replace_with_your_subdomain"
       ],
-      "proxied": true
+      "proxied": "true"
     }
   ],
-  "a": true,
-  "aaaa": true
+  "a": "true",
+  "aaaa": "true"
 }
