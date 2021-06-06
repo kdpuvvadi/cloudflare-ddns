@@ -12,7 +12,7 @@
       "subdomains": [
         "remove_or_replace_with_your_subdomain"
       ],
-      "proxied": false
+      "proxied": true
     }
   ],
   "a": true,
